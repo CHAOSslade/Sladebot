@@ -1,7 +1,7 @@
 {
   "scripts":{,
       "start": "node Server.js",
-    "dependencies": {
+  "dependencies": {
     "discord.js": "^14.14.1",
     "dotenv": "^16.4.5",
   }
